@@ -46,3 +46,11 @@ final_output = sigmoid(output_input)
 
 print("Output before Sigmoid:", output_input)
 print("Final Spam Probability:", final_output)
+
+#OUTPUT 
+
+H1 after ReLU: 0.8
+H2 after ReLU: 0
+Output before Sigmoid: 0.5599999999999999
+Final Spam Probability: 0.6364525402815664
+
