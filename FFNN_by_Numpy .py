@@ -1,4 +1,6 @@
 # 1. implementation of simple free forward neural network using numpy
+Date : 9/01/2026
+Day : Friday 
 
 import numpy as np
 
