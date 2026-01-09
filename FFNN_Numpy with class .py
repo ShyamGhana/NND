@@ -88,3 +88,23 @@ print("Final output:", final_output)
 print("Loss:", final_loss)
 print("Updated weights2:", model.weights2)
 
+#OUTPUT 
+
+Output: [41. 48.]
+Activated output: [1. 1.]
+Activated output: [0.73105858 0.73105858]
+Epoch: 100 Loss: [0.00894483]
+Epoch: 200 Loss: [0.00467733]
+Epoch: 300 Loss: [0.00312809]
+Epoch: 400 Loss: [0.00233803]
+Epoch: 500 Loss: [0.00186173]
+Epoch: 600 Loss: [0.00154424]
+Epoch: 700 Loss: [0.00131793]
+Epoch: 800 Loss: [0.00114866]
+Epoch: 900 Loss: [0.00101741]
+Epoch: 1000 Loss: [0.00091273]
+Final output: [0.96978857]
+Loss: [0.00091273]
+Updated weights2: [[0.82312961]
+ [0.92312961]]
+
