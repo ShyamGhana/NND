@@ -1,4 +1,6 @@
 # implement free forward NN using Pytorch
+Date : 09/01/2026
+Day : Friday 
 
 import torch
 import torch.nn as nn
